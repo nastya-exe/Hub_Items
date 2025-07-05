@@ -1,6 +1,0 @@
-aiogram
-asyncpg
-sqlalchemy
-aiofiles
-python-dotenv
-reportlab
